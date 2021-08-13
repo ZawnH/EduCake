@@ -1,0 +1,6 @@
+framework module Pods_eduCakeTests {
+  umbrella header "Pods-eduCakeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
